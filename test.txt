@@ -1,3 +1,7 @@
-window
-복습
-asdfsadaf
+#include <stdio.h>
+
+main()
+{
+	printf("안녕하세요.\n")
+	printf("Have a nice day!\n")
+}
